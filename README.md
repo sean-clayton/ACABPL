@@ -10,6 +10,14 @@ The name also lets people who say "ACAB" or otherwise are anti-police violence k
 It is very much in the same spirit of the [WTFPL](http://wtfpl.net), but with even less restrictions.
 It is effectively the same as the [WTFPL v69.420](https://www.github.com/sean-clayton/WTFPL-69.420) that I made, but with streamlined text.
 
+## Why not use X?
+
+- CC0 adds a public domain dedication. ACAB-1.0 makes no public domain dedication. See below for why.
+- WTFPL 2.0 has restrictions on modifying the license. ACAB-1.0 does not make any threats if you modify the license.
+- 0BSD restricts it to only software. ACAB-1.0 is for any works such as books, paintings, or software.
+- MIT/ISC etc require you to include a copy of the license when you distribute your work, or else you may see a cop at your door one day for disobeying. ACAB-1.0 will not threaten you with police violence.
+- Public Domain is tricky and is completely up to whatever legal system you are under control of. ACAB-1.0 makes no mention of public domain, and thus will not limit you to any legal system.
+
 ## Using this license
 
 1. The simplest way is to download or copy/paste the [full text of the ACAB-1.0](LICENSE) and distribute it with your work.
