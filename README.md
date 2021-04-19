@@ -3,7 +3,7 @@
 The spirit of the license is to let people know that the users of this license will not threaten people with the violence of cops to people who copy, modify, and/or distribute works with or without fee.
 It simply removes all legal threats to people who obtain a copy of the work, because legal threats can end with death if a cop is involved.
 The name also filters out people who support cops and their actions.
-The name also lets people who say "ACAB" that any license that creates legal restrictions is a license that threatens to use police violence, so they should be persuaded to use a _restrictionless_ license such as this one. The name also keeps this license out of suits' hands, which is always a plus :)
+The name also lets people who say "ACAB" or otherwise are anti-police violence know that any license that creates legal restrictions is a license that threatens to use police violence, so they should be persuaded to use a _restrictionless_ license such as this one. The name also keeps this license out of suits' hands, which is always a plus :)
 
 ## What does it do?
 
