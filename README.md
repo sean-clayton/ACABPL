@@ -1,10 +1,8 @@
 **ALL COPS ARE BASTARDS PUBLIC LICENSE (ACAB-1.0)**  
 Version 1.0, April 2021
 
-By Sean-Patrick O. Clayton \<sean@seanclayton.me\>
-
-Permission to copy and distribute verbatim or modified  
-copies of this license document, and changing it is allowed.
+Permission to copy, modify, and/or distribute this license  
+document, verbatim or modified, is allowed.
 
 Permission to use, copy, modify, and/or distribute this work for  
 any purpose with or without fee is hereby granted.
@@ -25,14 +23,14 @@ It is effectively the same as the [WTFPL v69.420](https://www.github.com/sean-cl
 
 ## Using this license
 
-1. Download or copy/paste the [full text of the ACAB-1.0](LICENSE) and distribute it with your work.
-   Some common file names for the license file is LICENSE or COPYING.
-   If the work features multiple licenses, it is usual to call the file COPYING.ACAB-1.0 or LICENSE.ACAB-1.0.
-2. Add the following wording to your copyright statements:
+1. The simplest way is to download or copy/paste the [full text of the ACAB-1.0](LICENSE) and distribute it with your work.
+   Common file names for the license file is LICENSE or COPYING.
+   If the work features multiple licenses, it is common to call the file COPYING.ACAB-1.0 or LICENSE.ACAB-1.0.
+2. You should also add the following wording to your copyright statements:
 
 ```
 This work is free. You can redistribute it and/or modify it under the
-terms of the All Cops Are Bastards Public License, Version 1.0, as published by Sean-Patrick Clayton.
+terms of the All Cops Are Bastards Public License, Version 1.0.
 See the COPYING file for more details.
 ```
 
@@ -40,6 +38,6 @@ If for practical reasons you cannot provide a separate COPYING file, you can cop
 
 ```
 This work is free. You can redistribute it and/or modify it under the
-terms of the All Cops Are Bastards Public License, Version 1.0, as published by Sean-Patrick Clayton.
+terms of the All Cops Are Bastards Public License, Version 1.0.
 See https://www.github.com/sean-clayton/ACABPL for more details.
 ```
